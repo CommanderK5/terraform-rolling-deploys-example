@@ -1,4 +1,4 @@
-## Terrafomr Rolling Deploys Example
+## Terraform Rolling Deploys Example
 
 This is an example of how to achieve rolling deploys on AWS using Terraform. It is based on a strategy proposed by Paul Hinze - https://groups.google.com/forum/#!msg/terraform-tool/7Gdhv1OAc80/iNQ93riiLwAJ
 
